@@ -5,6 +5,13 @@ A modern **React-based Employee Insights Dashboard** designed to manage and veri
 This project demonstrates **frontend engineering skills**, including real-time camera access, canvas processing, virtualized tables, and responsive UI development.
 
 ---
+## Package Information
+
+Some package setup references and documentation formatting were assisted using AI tools.
+The project implementation, feature integration, and overall application flow were developed and tested manually.
+
+AI assistance was used only for improving documentation clarity and referencing package usage where required.
+
 
 ##  Key Features
 
