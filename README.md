@@ -1,4 +1,4 @@
-# 🚀 Employee Insights Dashboard
+#  Employee Insights Dashboard
 
 A modern **React-based Employee Insights Dashboard** designed to manage and verify employee records with **photo capture and digital signature validation**.
 
@@ -6,43 +6,43 @@ This project demonstrates **frontend engineering skills**, including real-time c
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🔐 Authentication
+### Authentication
 
 * Simple login system for demo usage
 * Secure routing using React Router
 
-### 👨‍💼 Employee Management
+### Employee Management
 
 * Employee list displayed in a **high-performance virtual scrolling table**
 * Mock dataset representing **Indian salary structures**
 * Fast rendering even with large datasets
 
-### 📷 Camera Integration
+###  Camera Integration
 
 * Capture employee photos directly from the device camera
 * Uses browser **MediaDevices API**
 
-### ✍️ Digital Signature Capture
+###  Digital Signature Capture
 
 * Draw signatures using a **retina-optimized canvas**
 * Smooth signature rendering for high-resolution displays
 
-### 🖼️ Image Processing
+### Image Processing
 
 * Merge captured photo and signature
 * Generate a **PNG image blob**
 * Preview final verification image
 
-### 📊 Result View
+###  Result View
 
 * Display merged employee verification image
 * Clean UI for validation and demonstration
 
 ---
 
-## 🧭 Application Flow
+## Application Flow
 
 1️⃣ Login to the dashboard
 2️⃣ View employee list (mock data)
@@ -54,7 +54,7 @@ This project demonstrates **frontend engineering skills**, including real-time c
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 
@@ -71,7 +71,7 @@ This project demonstrates **frontend engineering skills**, including real-time c
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 Clone the repository:
 
@@ -99,7 +99,7 @@ npm run dev
 
 ---
 
-## 🔑 Demo Login
+##  Demo Login
 
 ```
 Username: testuser
@@ -108,7 +108,7 @@ Password: Test123
 
 ---
 
-## 📸 Important Notes
+## mportant Notes
 
 * Camera access requires **browser permission**
 * HTTPS is recommended for full camera support
@@ -117,7 +117,7 @@ Password: Test123
 
 ---
 
-## 🧠 Engineering Highlights
+##  Engineering Highlights
 
 ✔ Virtualized employee table for performance
 ✔ Real-time camera capture
@@ -128,7 +128,7 @@ Password: Test123
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Backend API integration
 * Employee database
@@ -139,11 +139,10 @@ Password: Test123
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Logashree M**
 Built as a frontend engineering demo project.
 
 ---
 
-⭐ If you found this project helpful, consider **starring the repository**!
